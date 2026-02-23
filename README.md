@@ -8,6 +8,7 @@ Hi 👋，我是一名热衷于技术探索的开发者，主要技术栈为 Jav
   - 🎁 [幸运补给站](https://xybjz.wanyj.cn/) - 探索未知的惊喜
   - 🤖 [灵犀助手](https://lingxi.wanyj.cn/) - 您的智能效率伙伴
   - 📚 [Claude Code 交互式入门](https://cc.wanyj.cn/) - 轻松上手下一代编程体验
+  - 🔐 [认证授权微服务](https://github.com/userwanyong/auth-service) - 一站式安全认证与权限管控基座
 - 🌟 **寻找合作**: 对开源项目感兴趣，欢迎交流！
 
 
