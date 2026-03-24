@@ -13,6 +13,7 @@ Hi 👋，我是一名热衷于技术探索的开发者，主要技术栈为 Jav
   - 🧩 [通用组件中心](https://github.com/userwanyong/wanyj-component) - 开箱即用的通用化组件集合，高效搭建业务场景
   - 🐳 [容器编排套件](https://github.com/userwanyong/docker-compose) - 中间件容器化编排库，快速搭建研发运维环境
   - 🧹 [PDF水印去除工具](https://github.com/userwanyong/pdf-clean-pro) - 轻量高效的 PDF 水印清理利器，支持文本、图片、链接一键去除
+  - 🎬 [SaveIt 视频下载器](https://github.com/userwanyong/uvd) - 跨平台视频在线解析与下载服务，支持 YouTube、B站、抖音等平台
 - 🌟 **寻找合作**: 对开源项目感兴趣，欢迎交流！
 
 
