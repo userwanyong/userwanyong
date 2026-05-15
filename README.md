@@ -9,7 +9,7 @@ Hi 👋，我是一名热衷于技术探索的开发者，主要技术栈为 Jav
   - 🤖 [灵犀助手](https://lxzs.wanyj.cn/) - 您的智能效率伙伴
   - 📚 [Claude Code 交互式入门](https://cc.wanyj.cn/) - 轻松上手下一代编程体验
 - 🛠️ **开源项目**:
-  - 🤖 [codefreex](https://github.com/userwanyong/codefreex) - AI 驱动的零代码应用生成平台，自然语言描述即可自动完成从需求分析到构建部署的全流程
+  - 🤖 [Codefreex](https://github.com/userwanyong/codefreex) - AI 驱动的零代码应用生成平台，自然语言描述即可自动完成从需求分析到构建部署的全流程
   - 🔐 [认证授权服务](https://github.com/userwanyong/auth-service) - 一站式安全认证与权限管控基座
   - 🧩 [通用组件中心](https://github.com/userwanyong/wanyj-component) - 开箱即用的通用化组件集合，高效搭建业务场景
   - 🐳 [容器编排套件](https://github.com/userwanyong/docker-compose) - 中间件容器化编排库，快速搭建研发运维环境
