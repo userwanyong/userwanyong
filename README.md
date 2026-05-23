@@ -21,6 +21,7 @@ Hi 👋，我是一名热衷于技术探索的开发者，主要技术栈为 Jav
 ## My Skills
 <div align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" />
@@ -35,6 +36,8 @@ Hi 👋，我是一名热衷于技术探索的开发者，主要技术栈为 Jav
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_AI-6DB33F?logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain4j-2E8B57?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph4j-4B6BFB?logo=java&logoColor=white" />
 </div>
 
 ## Github Stats
