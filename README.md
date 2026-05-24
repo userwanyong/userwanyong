@@ -4,10 +4,12 @@ Hi 👋，我是一名热衷于技术探索的开发者，主要技术栈为 Jav
 
 - 💻 **正在钻研**: 全栈开发与 AI 应用落地
 - 🏠 **个人主页**: [www.wanyj.cn](https://www.wanyj.cn/)
-- 🚀 **精选项目**:
+- 🚀 **精选线上项目**:
   - 🎁 [幸运补给站](https://xybjz.wanyj.cn/) - 探索未知的惊喜
   - 🤖 [灵犀助手](https://lxzs.wanyj.cn/) - 您的智能效率伙伴
   - 📚 [Claude Code 交互式入门](https://cc.wanyj.cn/) - 轻松上手下一代编程体验
+  - 🤖 [Codefreex](https://codefreex.wanyj.cn/) - AI 驱动的零代码应用生成平台，自然语言描述即可自动完成从需求分析到构建部署的全流程
+  - 🚀 [QIT-Studio](https://qitstudio.wanyj.cn/) - 校园软件创新工作室，专注技术探索、项目孵化与开发实践，连接创意与未来
 - 🛠️ **开源项目**:
   - 🤖 [Codefreex](https://github.com/userwanyong/codefreex) - AI 驱动的零代码应用生成平台，自然语言描述即可自动完成从需求分析到构建部署的全流程
   - 🔐 [认证授权服务](https://github.com/userwanyong/auth-service) - 一站式安全认证与权限管控基座
